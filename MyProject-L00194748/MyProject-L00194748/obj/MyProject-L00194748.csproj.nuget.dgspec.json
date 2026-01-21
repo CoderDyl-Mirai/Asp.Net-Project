@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\MyProject-L00194748\\MyProject-L00194748.csproj": {}
+    "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\MyProject-L00194748.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\MyProject-L00194748\\MyProject-L00194748.csproj": {
+    "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\MyProject-L00194748.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\MyProject-L00194748\\MyProject-L00194748.csproj",
+        "projectUniqueName": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\MyProject-L00194748.csproj",
         "projectName": "MyProject-L00194748",
-        "projectPath": "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\MyProject-L00194748\\MyProject-L00194748.csproj",
+        "projectPath": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\MyProject-L00194748.csproj",
         "packagesPath": "C:\\Users\\DylanGreene-STUDENT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\MyProject-L00194748\\obj\\",
+        "outputPath": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

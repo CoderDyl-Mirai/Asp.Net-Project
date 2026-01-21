@@ -1,0 +1,30 @@
+﻿@page
+@model MyProject_L00194748.Pages.Themes.EditModel
+@{
+}
+<form method="post">
+    <input hidden asp-for="Theme.Id" />
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary pl-3">Edit Category</h2>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="@Model.Theme.Name"></label>
+            <input asp-for="@Model.Theme.Name" class="form-control" />
+            <span asp-validation-for="@Model.Theme.Name" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="@Model.Theme.Description"></label>
+            <input asp-for="@Model.Theme.Description" class="form-control" />
+            <span asp-validation-for="@Model.Theme.Description" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Update</button>
+        <a asp-page="Index" class="btn btn-secondary">Back To Index</a>
+    </div>
+</form>
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
