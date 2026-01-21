@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|c:\\users\\dylangreene-student\\onedrive - atlantic tu\\asp.net development\\myproject-l00194748\\myproject-l00194748\\pages\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|solutionrelative:myproject-l00194748\\pages\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|c:\\users\\dylangreene-student\\onedrive - atlantic tu\\asp.net development\\myproject-l00194748\\myproject-l00194748\\pages\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|solutionrelative:myproject-l00194748\\pages\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|c:\\users\\dylangreene-student\\onedrive - atlantic tu\\asp.net development\\myproject-l00194748\\myproject-l00194748\\dataaccess\\mangashopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|solutionrelative:myproject-l00194748\\dataaccess\\mangashopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|c:\\users\\dylangreene-student\\onedrive - atlantic tu\\asp.net development\\myproject-l00194748\\myproject-l00194748\\models\\themes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|solutionrelative:myproject-l00194748\\models\\themes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|c:\\users\\dylangreene-student\\onedrive - atlantic tu\\asp.net development\\myproject-l00194748\\myproject-l00194748\\models\\booktypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|solutionrelative:myproject-l00194748\\models\\booktypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|c:\\users\\dylangreene-student\\onedrive - atlantic tu\\asp.net development\\myproject-l00194748\\myproject-l00194748\\models\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|solutionrelative:myproject-l00194748\\models\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|c:\\users\\dylangreene-student\\onedrive - atlantic tu\\asp.net development\\myproject-l00194748\\myproject-l00194748\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|solutionrelative:myproject-l00194748\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|c:\\users\\dylangreene-student\\onedrive - atlantic tu\\asp.net development\\myproject-l00194748\\myproject-l00194748\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|solutionrelative:myproject-l00194748\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|c:\\users\\dylangreene-student\\onedrive - atlantic tu\\asp.net development\\myproject-l00194748\\myproject-l00194748\\myproject-l00194748.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|solutionrelative:myproject-l00194748\\myproject-l00194748.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyProject-L00194748\\Pages\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Books\\Create.cshtml",
+              "RelativeToolTip": "MyProject-L00194748\\Pages\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T16:16:59.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyProject-L00194748\\Pages\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Books\\Index.cshtml",
+              "RelativeToolTip": "MyProject-L00194748\\Pages\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T16:15:50.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\MyProject-L00194748\\appsettings.json",
+              "RelativeDocumentMoniker": "MyProject-L00194748\\appsettings.json",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\MyProject-L00194748\\appsettings.json",
+              "RelativeToolTip": "MyProject-L00194748\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-21T16:09:41.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\MyProject-L00194748\\Program.cs",
+              "RelativeDocumentMoniker": "MyProject-L00194748\\Program.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\MyProject-L00194748\\Program.cs",
+              "RelativeToolTip": "MyProject-L00194748\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:06:18.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MangaShopDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\MyProject-L00194748\\DataAccess\\MangaShopDBContext.cs",
+              "RelativeDocumentMoniker": "MyProject-L00194748\\DataAccess\\MangaShopDBContext.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\MyProject-L00194748\\DataAccess\\MangaShopDBContext.cs",
+              "RelativeToolTip": "MyProject-L00194748\\DataAccess\\MangaShopDBContext.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAAI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:05:02.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyProject-L00194748",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\MyProject-L00194748\\MyProject-L00194748.csproj",
+              "RelativeDocumentMoniker": "MyProject-L00194748\\MyProject-L00194748.csproj",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\MyProject-L00194748\\MyProject-L00194748.csproj*",
+              "RelativeToolTip": "MyProject-L00194748\\MyProject-L00194748.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-21T16:03:04.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Themes.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\MyProject-L00194748\\Models\\Themes.cs",
+              "RelativeDocumentMoniker": "MyProject-L00194748\\Models\\Themes.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\MyProject-L00194748\\Models\\Themes.cs",
+              "RelativeToolTip": "MyProject-L00194748\\Models\\Themes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:02:28.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookDetails.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\MyProject-L00194748\\Models\\BookDetails.cs",
+              "RelativeDocumentMoniker": "MyProject-L00194748\\Models\\BookDetails.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\MyProject-L00194748\\Models\\BookDetails.cs",
+              "RelativeToolTip": "MyProject-L00194748\\Models\\BookDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:01:56.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookTypes.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\MyProject-L00194748\\Models\\BookTypes.cs",
+              "RelativeDocumentMoniker": "MyProject-L00194748\\Models\\BookTypes.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\OneDrive - Atlantic TU\\ASP.Net Development\\MyProject-L00194748\\MyProject-L00194748\\Models\\BookTypes.cs",
+              "RelativeToolTip": "MyProject-L00194748\\Models\\BookTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:00:11.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
