@@ -1,0 +1,12 @@
+C:\Users\DylanGreene-STUDENT\Asp.Net-Project\MyProject-L00194748\MyProject.Models\bin\Debug\net8.0\MyProject.Models.deps.json
+C:\Users\DylanGreene-STUDENT\Asp.Net-Project\MyProject-L00194748\MyProject.Models\bin\Debug\net8.0\MyProject.Models.dll
+C:\Users\DylanGreene-STUDENT\Asp.Net-Project\MyProject-L00194748\MyProject.Models\bin\Debug\net8.0\MyProject.Models.pdb
+C:\Users\DylanGreene-STUDENT\Asp.Net-Project\MyProject-L00194748\MyProject.Models\obj\Debug\net8.0\MyProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DylanGreene-STUDENT\Asp.Net-Project\MyProject-L00194748\MyProject.Models\obj\Debug\net8.0\MyProject.Models.AssemblyInfoInputs.cache
+C:\Users\DylanGreene-STUDENT\Asp.Net-Project\MyProject-L00194748\MyProject.Models\obj\Debug\net8.0\MyProject.Models.AssemblyInfo.cs
+C:\Users\DylanGreene-STUDENT\Asp.Net-Project\MyProject-L00194748\MyProject.Models\obj\Debug\net8.0\MyProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\DylanGreene-STUDENT\Asp.Net-Project\MyProject-L00194748\MyProject.Models\obj\Debug\net8.0\MyProject.Models.sourcelink.json
+C:\Users\DylanGreene-STUDENT\Asp.Net-Project\MyProject-L00194748\MyProject.Models\obj\Debug\net8.0\MyProject.Models.dll
+C:\Users\DylanGreene-STUDENT\Asp.Net-Project\MyProject-L00194748\MyProject.Models\obj\Debug\net8.0\refint\MyProject.Models.dll
+C:\Users\DylanGreene-STUDENT\Asp.Net-Project\MyProject-L00194748\MyProject.Models\obj\Debug\net8.0\MyProject.Models.pdb
+C:\Users\DylanGreene-STUDENT\Asp.Net-Project\MyProject-L00194748\MyProject.Models\obj\Debug\net8.0\ref\MyProject.Models.dll

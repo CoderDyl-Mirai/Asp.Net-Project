@@ -1494,6 +1494,31 @@
             "rid": "win"
           }
         }
+      },
+      "MyProject.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.22",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.22",
+          "MyProject.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MyProject.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyProject.DataAccess.dll": {}
+        }
+      },
+      "MyProject.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MyProject.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyProject.Models.dll": {}
+        }
       }
     }
   },
@@ -3996,13 +4021,25 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "MyProject.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../MyProject.DataAccess/MyProject.DataAccess.csproj",
+      "msbuildProject": "../MyProject.DataAccess/MyProject.DataAccess.csproj"
+    },
+    "MyProject.Models/1.0.0": {
+      "type": "project",
+      "path": "../MyProject.Models/MyProject.Models.csproj",
+      "msbuildProject": "../MyProject.Models/MyProject.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.EntityFrameworkCore.Design >= 8.0.22",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.22",
-      "Microsoft.EntityFrameworkCore.Tools >= 8.0.22"
+      "Microsoft.EntityFrameworkCore.Tools >= 8.0.22",
+      "MyProject.DataAccess >= 1.0.0",
+      "MyProject.Models >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4037,7 +4074,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\MyProject.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\MyProject.DataAccess.csproj"
+            },
+            "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\MyProject.Models.csproj": {
+              "projectPath": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\MyProject.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

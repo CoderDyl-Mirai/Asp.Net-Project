@@ -1,0 +1,75 @@
+﻿@page
+@model MyProject_L00194748.Pages.Admin.Themes.IndexModel
+@{
+}
+<table>
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>Description</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var obj in Model.Themes)
+        {
+            <tr>
+
+
+                <td width="30%">
+                    @obj.Name
+                </td>
+                <td width="30%"> 
+                    @obj.Description
+                </td>
+                <td>
+                    <div class="w-75 btn-group" role="group">
+                        <a asp-page="Edit" asp-route-id="@obj.Id" class="btn btn-primary mx-2">Edit </a>
+                    </div>
+                </td>
+
+                <td>
+                    <div class="w-75 btn-group" role="group">
+                        <form method="post">
+                            <input type="hidden" name="Id" value="@obj.Id" />
+                            <input type="hidden" name="Name" value="@obj.Name" />
+                            <input type="hidden" name="Description" value="@obj.Description" />
+
+                            <button type="submit" class="btn btn-primary" style="width:150px">Delete</button>
+                        </form>
+
+                    </div>
+                </td>
+                <td></td>
+
+            </tr>
+
+        }
+        <tr>
+            <br />
+        </tr>
+        <tr>
+
+            <form method="post" asp-action="Create">
+
+            <td width="50%">
+
+                
+            </td>
+            <td></td>
+            <td></td>
+            <td>
+                <div class="w-75 btn-group" role="group">
+                    <a asp-page="Create" class="btn btn-primary mx-2">Create </a>
+                </div>
+            </td>
+            </form>
+        </tr>
+
+
+    </tbody>
+</table>
