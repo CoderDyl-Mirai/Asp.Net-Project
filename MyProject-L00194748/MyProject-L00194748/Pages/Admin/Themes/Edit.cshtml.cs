@@ -2,28 +2,29 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using MyProject.DataAccess.DataAccess;
 using MyProject.Models.Models;
+using MyProject.Services;
 using System;
 
 namespace MyProject_L00194748.Pages.Admin.Themes
 {
     public class EditModel : PageModel
     {
-        private readonly MangaShopDBContext _dbContext;
-        public EditModel(MangaShopDBContext dbContext)
+        private readonly IUnitOfWork _unitOfWork;
+        public EditModel(IUnitOfWork unitOfWork)
         {
-            _dbContext = dbContext;
+            _unitOfWork = unitOfWork;
         }
         public MyProject.Models.Models.Themes Theme { get; set; }
         public void OnGet(int id)
         {
-            Theme = _dbContext.Themes.Find(id);
+            Theme = _unitOfWork.ThemesRepo.Get(id);
         }
-        public async Task<IActionResult> OnPost(MyProject.Models.Models.Themes theme)
+        public IActionResult OnPost(MyProject.Models.Models.Themes theme)
         {
             if (ModelState.IsValid)
             {
-                _dbContext.Update(theme);
-                await _dbContext.SaveChangesAsync();
+                _unitOfWork.ThemesRepo.Update(theme);
+                _unitOfWork.Save();
             }
             return RedirectToPage("Index");
         }

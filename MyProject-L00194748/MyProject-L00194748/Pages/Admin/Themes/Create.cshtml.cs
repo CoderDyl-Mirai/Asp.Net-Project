@@ -2,27 +2,28 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using MyProject.DataAccess.DataAccess;
 using MyProject.Models.Models;
+using MyProject.Services;
 using System;
 
 namespace MyProject_L00194748.Pages.Admin.Themes
 {
     public class CreateModel : PageModel
     {
-        private readonly MangaShopDBContext _dbContext;
-        public CreateModel(MangaShopDBContext dbContext)
+        private readonly IUnitOfWork _unitOfWork;
+        public CreateModel(IUnitOfWork unitOfWork)
         {
-            _dbContext = dbContext;
+            _unitOfWork = unitOfWork;
         }
         public MyProject.Models.Models.Themes Theme { get; set; }
         public void OnGet()
         {
         }
-        public async Task<IActionResult> OnPost(MyProject.Models.Models.Themes theme)
+        public IActionResult OnPost(MyProject.Models.Models.Themes theme)
         {
             if (ModelState.IsValid)
             {
-                await _dbContext.AddAsync(theme);
-                await _dbContext.SaveChangesAsync();
+                _unitOfWork.ThemesRepo.Add(theme);
+                _unitOfWork.Save();
             }
             return RedirectToPage("Index");
         }
