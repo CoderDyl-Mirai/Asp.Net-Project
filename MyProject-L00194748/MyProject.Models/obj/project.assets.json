@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\DylanGreene-STUDENT\\.nuget\\packages\\": {},
+    "C:\\Users\\Green\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\MyProject.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Green\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\MyProject.Models.csproj",
       "projectName": "MyProject.Models",
-      "projectPath": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\MyProject.Models.csproj",
-      "packagesPath": "C:\\Users\\DylanGreene-STUDENT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\obj\\",
+      "projectPath": "C:\\Users\\Green\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\MyProject.Models.csproj",
+      "packagesPath": "C:\\Users\\Green\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Green\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\DylanGreene-STUDENT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Green\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -52,7 +52,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

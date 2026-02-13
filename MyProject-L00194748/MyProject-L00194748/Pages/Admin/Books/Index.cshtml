@@ -1,0 +1,50 @@
+﻿@page
+@model MyProject_L00194748.Pages.Admin.Books.IndexModel
+@{
+}
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h3 class="text-primary">Books</h3>
+        </div>
+        <div class="col-6">
+            <a asp-page="Create" class="btn btn-primary">
+                Create New Book
+            </a>
+        </div>
+    </div>
+
+</div>
+
+<h3 class=" text-primary">Books</h3>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Cover Image</th>
+            <th>Book Detaisl</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var obj in Model.Books)
+        {
+            <tr>
+                <td width="50%"> <img width="100%" src="@obj.CoverImage" />@obj.CoverImage</td>
+                <td width="50%"> Title: @obj.Title<br />
+                    Author: @obj.Author <br />
+                 Book Type: @obj.BookType.Name<br />
+                 Price: €@obj.Price<br /><br />
+                 @obj.Description
+              </td>
+
+                <td width="25">
+                    <a asp-page="Edit" asp-route-id="@obj.Id" class=" btn btn-primary mx-2">Edit</a>
+                </td>
+                <td width="25">
+                    <a asp-page="Delete" asp-route-id="@obj.Id" class=" btn btn-primary mx-2">Delete</a>
+                </td>
+            </tr>
+
+        }
+    </tbody>
+</table>

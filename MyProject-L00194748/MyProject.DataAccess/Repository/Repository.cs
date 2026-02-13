@@ -3,6 +3,7 @@ using MyProject.DataAccess.DataAccess;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -34,9 +35,14 @@ namespace MyProject.DataAccess.Repository
             if (id == 0) return null;
             else return dbSet.Find(id);
         }
-        public IEnumerable<T> GetAll()
+        
+        public IEnumerable<T> GetAll(Expression<Func<T, object>>? include = null)
         {
             IQueryable<T> list = dbSet;
+            if (include != null)
+            {
+                list = list.Include(include);
+            }
             return list.ToList();
         }
     }

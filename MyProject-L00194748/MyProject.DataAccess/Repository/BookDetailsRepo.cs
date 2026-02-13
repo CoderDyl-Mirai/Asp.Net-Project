@@ -15,6 +15,21 @@ namespace MyProject.DataAccess.Repository
         {
             _dbContext = dbContext;
         }
+        public void Update(BookDetails book)
+        {
+            var bookFromDB = _dbContext.Books.FirstOrDefault(bookFromDB => bookFromDB.Id == book.Id);
+            bookFromDB.Title = book.Title;
+            bookFromDB.BookTypeID = book.BookTypeID;
+            bookFromDB.Author = book.Author;
+            bookFromDB.Description = book.Description;
+            bookFromDB.Price = book.Price;
+            bookFromDB.ReleaseDate = book.ReleaseDate;
+
+            if (book.CoverImage != null)
+            {
+                bookFromDB.CoverImage = book.CoverImage;
+            }
+        }
 
     }
 }
