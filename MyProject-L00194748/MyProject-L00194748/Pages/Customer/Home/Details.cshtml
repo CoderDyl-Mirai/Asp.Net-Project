@@ -1,0 +1,64 @@
+﻿@page
+@model MyProject_L00194748.Pages.Customer.Home.DetailsModel
+@{
+}
+<div class="">
+    <form method="post">
+
+        <div class="container backgroundWhite">
+            <div class="card">
+                <div class="card-header">
+                    <div class="text-light ml-0 row ">
+                        <div class="col-12 col-md-6 pt-2">
+                            <h1 class="text-primary">@Model.Book.Title</h1>
+                        </div>
+                        <div class="col-12 col-md-6 text-end pt-2">
+                            <h1 class="text-muted">@Model.Book.Author</h1>
+                        </div>
+                        <div class="col-12 col-md-6 text-end pt-2">
+                            <h1 class="text-muted">@Model.Book.Price</h1>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <div class="container rounded p-2">
+                        <div class="row">
+                            <div class="col-12 col-lg-8">
+                                <div class="row">
+
+                                    <div class="col-12">
+                                        <h3 class="text-success"></h3>
+
+                                        <p class="text-primary">@Model.Book.Description</p>
+                                        <p class="text-primary">Price : $@Model.Book.Price</p>
+                                        <div class="form-floating my-2">
+                                            <input class="form-control" aria-required="true" />
+                                            <label>Quantity</label>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-4 p-1 text-center">
+                                <img src="@Model.Book.CoverImage" width="100%" class="rounded" />
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <div class="row">
+                        <div class="col-12 col-md-6 pb-1 ">
+                            <a asp-page="Index" class="btn btn-success btn-square form-control" style="height:50px;">Back to List</a>
+                        </div>
+                        <div class="col-12 col-md-6 ">
+                            <a asp-page="Order" button type="submit" class="btn btn-primary btn-square form-control" style="height:50px;">Add to Order</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
