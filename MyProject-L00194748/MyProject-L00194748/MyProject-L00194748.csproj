@@ -26,8 +26,4 @@
     <ProjectReference Include="..\MyProject.Services\MyProject.Services.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Pages\Customer\" />
-  </ItemGroup>
-
 </Project>
