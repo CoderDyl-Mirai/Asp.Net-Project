@@ -1,0 +1,42 @@
+﻿@page
+@model RP1Tut_L00184748_atu.ie.Pages.RegisterModel
+<form method="post">
+	<div class="border p-3 mt-4">
+		<div asp-validation-summary="All" class="text-danger"></div>
+		<div class="row pb-2">
+			<h2 class="text-primary pl-3">
+				Register
+			</h2>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Register.EmailAddress">Email Address</label>
+			<input asp-for="Register.EmailAddress" class="form-control" />
+			<span asp-validation-for="Register.EmailAddress" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Register.Password"></label>
+			<input asp-for="Register.Password" class="form-control" />
+			<span asp-validation-for="Register.Password" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Register.ConfirmPassword">Confirm Password</label>
+			<input asp-for="Register.ConfirmPassword" class="form-control" />
+			<span asp-validation-for="Register.ConfirmPassword" class="text-danger"></span>
+		</div>
+
+
+
+		<div>
+            <button type="submit" class="btn btn-primary" style="width:100%;">Register</button>
+
+            <a asp-page="Index" class="btn btn-success btn-square form-control">Back to List</a>
+        </div>
+	</div>
+</form>
+
+@section Scripts {
+	@{
+		<partial name="_validationScriptsPartial" />
+	}
+}
+

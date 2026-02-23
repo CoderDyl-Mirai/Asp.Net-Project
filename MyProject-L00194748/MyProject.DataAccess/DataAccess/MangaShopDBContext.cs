@@ -1,9 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using MyProject.Models.Models;
 
 namespace MyProject.DataAccess.DataAccess
 {
-    public class MangaShopDBContext: DbContext
+    public class MangaShopDBContext: IdentityDbContext
     {
 
         public MangaShopDBContext(DbContextOptions<MangaShopDBContext> options) : base(options)
