@@ -13,6 +13,10 @@ namespace MyProject.DataAccess.DataAccess
         public DbSet<BookDetails> Books { get; set; }
         public DbSet<Themes> Themes { get; set; }
         public DbSet<BookTypes> BookTypes { get; set; }
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<OrderItem> OrderItem { get; set; }
+        public DbSet<ApplicationUser> ApplicationUsers { get; set; }
+        public DbSet<ShoppingCart> ShoppingCart { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

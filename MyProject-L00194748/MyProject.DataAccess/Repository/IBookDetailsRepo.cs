@@ -10,5 +10,7 @@ namespace MyProject.DataAccess.Repository
     public interface IBookDetailsRepo: IRepository<BookDetails>
     {
         public void Update(BookDetails book);
+        BookDetails GetBookType(int id);
+
     }
 }

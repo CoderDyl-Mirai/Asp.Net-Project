@@ -12,6 +12,10 @@ namespace MyProject.Services
         IBookDetailsRepo BookDetailsRepo { get; }
         IBookTypesRepo BookTypesRepo { get; }
         IThemesRepo ThemesRepo { get; }
+        IOrderRepo OrderRepo { get; }
+        IOrderItemRepo OrderItemRepo { get; }
+        IApplicationUserRepo ApplicationUserRepo { get; }
+        IShoppingCartRepo ShoppingCartRepo { get; }
         void Save();
     }
 }

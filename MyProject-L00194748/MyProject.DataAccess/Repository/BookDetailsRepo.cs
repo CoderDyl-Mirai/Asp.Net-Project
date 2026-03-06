@@ -1,4 +1,5 @@
-﻿using MyProject.DataAccess.DataAccess;
+﻿using Microsoft.EntityFrameworkCore;
+using MyProject.DataAccess.DataAccess;
 using MyProject.Models.Models;
 using System;
 using System.Collections.Generic;
@@ -29,6 +30,11 @@ namespace MyProject.DataAccess.Repository
             {
                 bookFromDB.CoverImage = book.CoverImage;
             }
+        }
+        BookDetails IBookDetailsRepo.GetBookType(int id)
+        {
+            var book = _dbContext.Books.Include(c => c.BookType).FirstOrDefault(p => p.Id == id);
+            return book;
         }
 
     }
