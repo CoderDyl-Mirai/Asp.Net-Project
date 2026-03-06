@@ -12,7 +12,7 @@ using MyProject.DataAccess.DataAccess;
 namespace MyProject.DataAccess.Migrations
 {
     [DbContext(typeof(MangaShopDBContext))]
-    [Migration("20260304170928_v1")]
+    [Migration("20260306103249_v1")]
     partial class v1
     {
         /// <inheritdoc />

@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Identity;
 using RP1Tut_L00184748_atu.ie.Pages.PageViewModels;
+using MyProject.Models.Models;
 namespace RP1Tut_L00184748_atu.ie.Pages
 {
     [BindProperties]
@@ -11,6 +12,7 @@ namespace RP1Tut_L00184748_atu.ie.Pages
         private readonly UserManager<IdentityUser> _userManager;
         private readonly SignInManager<IdentityUser> _signInManager;
         public Register Register {  get; set; }
+        public ApplicationUser ApplicationUser { get; set; }
         public RegisterModel(UserManager<IdentityUser> userManager, SignInManager<IdentityUser> signInManager)
         {
             _userManager = userManager;
@@ -25,8 +27,11 @@ namespace RP1Tut_L00184748_atu.ie.Pages
         {
             if(ModelState.IsValid)
             {
-                var user = new IdentityUser()
+                var user = new ApplicationUser()
                 {
+                    FirstName = Register.FirstName,
+                    LastName = Register.LastName,
+                    PhoneNumber = Register.PhoneNumber,
                     UserName = Register.EmailAddress,
                     Email = Register.EmailAddress
                 };

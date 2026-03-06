@@ -17,7 +17,6 @@ namespace MyProject_L00194748.Pages.Customer.Home
         }
         [BindProperty]
         public ShoppingCart ShoppingCart { get; set; }
-        [BindProperty]
         public BookDetails Book { get; set; }
         public void OnGet(int id)
         {
@@ -29,7 +28,7 @@ namespace MyProject_L00194748.Pages.Customer.Home
                 //Product = _unitOfWork.ProductRepo.Get(id);
                 ApplicationUserId = claim.Value,
                 Quantity = 1,
-                Book = _unitOfWork.BookDetailsRepo.GetBookType(id),
+                Book = _unitOfWork.BookDetailsRepo.Get(id),
                 BookId = id
             };
         }

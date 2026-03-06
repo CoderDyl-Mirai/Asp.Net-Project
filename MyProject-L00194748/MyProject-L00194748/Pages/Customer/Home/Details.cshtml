@@ -12,13 +12,13 @@
                 <div class="card-header">
                     <div class="text-light ml-0 row ">
                         <div class="col-12 col-md-6 pt-2">
-                            <h1 class="text-primary">@Model.Book.Title</h1>
+                            <h1 class="text-primary">@Model.ShoppingCart.Book.Title</h1>
                         </div>
                         <div class="col-12 col-md-6 text-end pt-2">
-                            <h1 class="text-muted">@Model.Book.Author</h1>
+                            <h1 class="text-muted">@Model.ShoppingCart.Book.Author</h1>
                         </div>
                         <div class="col-12 col-md-6 text-end pt-2">
-                            <h1 class="text-muted">@Model.Book.Price</h1>
+                            <h1 class="text-muted">@Model.ShoppingCart.Book.Price</h1>
                         </div>
                     </div>
                 </div>
@@ -31,11 +31,12 @@
                                     <div class="col-12">
                                         <h3 class="text-success"></h3>
 
-                                        <p class="text-primary">@Model.Book.Description</p>
-                                        <p class="text-primary">Price : $@Model.Book.Price</p>
-                                        <div class="form-floating my-2">
-                                            <input class="form-control" aria-required="true" />
-                                            <label>Quantity</label>
+                                        <p class="text-primary">@Model.ShoppingCart.Book.Description</p>
+                                        <p class="text-primary">Price : $@Model.ShoppingCart.Book.Price</p>
+                                            <div class="mb-3">
+                                                <label asp-for="@Model.ShoppingCart.Quantity"></label>
+                                                <input asp-for="@Model.ShoppingCart.Quantity" class="form-control" />
+                                                <span asp-validation-for="@Model.ShoppingCart.Quantity" class="text-danger"></span>
                                         </div>
 
                                     </div>
@@ -43,7 +44,7 @@
                                 </div>
                             </div>
                             <div class="col-12 col-lg-4 p-1 text-center">
-                                <img src="@Model.Book.CoverImage" width="100%" class="rounded" />
+                                <img src="@Model.ShoppingCart.Book.CoverImage" width="100%" class="rounded" />
                             </div>
 
 
@@ -56,7 +57,7 @@
                             <a asp-page="Index" class="btn btn-success btn-square form-control" style="height:50px;">Back to List</a>
                         </div>
                         <div class="col-12 col-md-6 ">
-                            <a asp-page="Order" button type="submit" class="btn btn-primary btn-square form-control" style="height:50px;">Add to Order</a>
+                            <button type="submit" class="btn btn-primary btn-square form-control">Add to Cart</button>
                         </div>
                     </div>
                 </div>

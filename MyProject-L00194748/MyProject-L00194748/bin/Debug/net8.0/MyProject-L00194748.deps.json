@@ -12,6 +12,7 @@
           "Microsoft.EntityFrameworkCore.Design": "8.0.22",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.22",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.22",
+          "Microsoft.Extensions.Identity.Stores": "8.0.22",
           "MyProject.DataAccess": "1.0.0",
           "MyProject.Models": "1.0.0",
           "MyProject.Services": "1.0.0"
