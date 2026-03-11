@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace RP1Tut_L00184748_atu.ie.Pages.PageViewModels
+namespace MyProject_L00194748.Pages.PageViewModels
 {
     public class Register
     {

@@ -1,4 +1,5 @@
-﻿using MyProject.DataAccess.DataAccess;
+﻿using Microsoft.EntityFrameworkCore;
+using MyProject.DataAccess.DataAccess;
 using MyProject.Models.Models;
 using System;
 using System.Collections.Generic;
@@ -23,6 +24,22 @@ namespace MyProject.DataAccess.Repository
         public int IncrementQty(ShoppingCart shoppingCart, int qty)
         {
             shoppingCart.Quantity += qty;
+            _dbContext.SaveChanges();
+            return shoppingCart.Quantity;
+        }
+        public IEnumerable<ShoppingCart> GetShoppingCartsBooks(string userid)
+        {
+            var ShoppingCartItem = _dbContext.ShoppingCart.Where(u => u.ApplicationUserId == userid).Include(p => p.Book).ThenInclude(c => c.BookType);
+            return ShoppingCartItem;
+        }
+        public void RemoveAll(IEnumerable<ShoppingCart> items)
+        {
+            _dbContext.RemoveRange(items);
+            _dbContext.SaveChanges();
+        }
+        public int DecrementQty(ShoppingCart shoppingCart, int qty)
+        {
+            shoppingCart.Quantity -= qty;
             _dbContext.SaveChanges();
             return shoppingCart.Quantity;
         }

@@ -2,8 +2,9 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using MyProject.DataAccess.DataAccess;
 using MyProject.Services;
+using Stripe;
 using System;
-
+using MyProject_L00194748.Pages.PageViewModels;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -12,6 +13,8 @@ builder.Services.AddDbContext<MangaShopDBContext>(options => options.UseSqlServe
 builder.Services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<MangaShopDBContext>();
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.Configure<StripeSettings>(builder.Configuration.GetSection("Stripe"));
+
 builder.Services.ConfigureApplicationCookie(options =>
 {
     options.LoginPath = "/Login";
@@ -31,7 +34,8 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
+string key = builder.Configuration.GetSection("Stripe:SecretKey").Get<string>();
+StripeConfiguration.ApiKey = key;
 app.UseAuthorization();
 
 app.MapRazorPages();

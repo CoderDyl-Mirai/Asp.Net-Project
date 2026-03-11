@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Identity;
-using RP1Tut_L00184748_atu.ie.Pages.PageViewModels;
+using MyProject_L00194748.Pages.PageViewModels;
 using MyProject.Models.Models;
-namespace RP1Tut_L00184748_atu.ie.Pages
+namespace MyProject_L00194748.Pages
 {
     [BindProperties]
 
