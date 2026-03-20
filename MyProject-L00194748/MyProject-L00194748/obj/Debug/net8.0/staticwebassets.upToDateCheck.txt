@@ -1,7 +1,9 @@
+wwwroot\css\bootstrap.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\book\Chainsaw Man Vol. 1 (Manga).jpg
-wwwroot\images\book\Jujutsu Kaisen Vol. 1 (Manga).jpg
+wwwroot\images\book\Jujutsu Kaisen Vol. 1.jpg
+wwwroot\images\book\Jujutsu Kaisen Vol. 1.jpg.jpg
 wwwroot\images\book\Lord of Mysteries, Vol. 1, The Clown, Part I (Web Novel).jpg
 wwwroot\images\book\Solo Leveling Vol. 1 (Manwha).jpg
 wwwroot\images\book\Spice and Wolf Vol. 1 (Light Novel).jpg

@@ -1,0 +1,57 @@
+﻿@page
+@model MyProject_L00194748.Pages.RegisterModel
+<form method="post">
+	<div class="border p-3 mt-4">
+		<div asp-validation-summary="All" class="text-danger"></div>
+		<div class="row pb-2">
+			<h2 class="text-primary pl-3">
+				Register
+			</h2>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Register.FirstName"></label>
+			<input asp-for="Register.FirstName" class="form-control" />
+			<span asp-validation-for="Register.FirstName" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Register.LastName"></label>
+			<input asp-for="Register.LastName" class="form-control" />
+			<span asp-validation-for="Register.LastName" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Register.PhoneNumber"></label>
+			<input asp-for="Register.PhoneNumber" class="form-control" />
+			<span asp-validation-for="Register.PhoneNumber" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Register.EmailAddress">Email Address</label>
+			<input asp-for="Register.EmailAddress" class="form-control" />
+			<span asp-validation-for="Register.EmailAddress" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Register.Password"></label>
+			<input asp-for="Register.Password" class="form-control" />
+			<span asp-validation-for="Register.Password" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Register.ConfirmPassword">Confirm Password</label>
+			<input asp-for="Register.ConfirmPassword" class="form-control" />
+			<span asp-validation-for="Register.ConfirmPassword" class="text-danger"></span>
+		</div>
+
+
+
+		<div>
+            <button type="submit" class="btn btn-primary" style="width:100%;">Register</button>
+
+            <a asp-page="Index" class="btn btn-success btn-square form-control">Back to List</a>
+        </div>
+	</div>
+</form>
+
+@section Scripts {
+	@{
+		<partial name="_validationScriptsPartial" />
+	}
+}
+

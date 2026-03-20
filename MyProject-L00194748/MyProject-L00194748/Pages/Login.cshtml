@@ -1,0 +1,44 @@
+﻿@page
+@model MyProject_L00194748.Pages.LoginModel
+<form method="post">
+    <div class="border p-3 mt-4">
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="row pb-2">
+            <h2 class="text-primary pl-3">
+                Login
+            </h2>
+        </div>
+
+
+        <div class="mb-3">
+
+            <label asp-for="Login.EmailAddress">Email Address</label>
+            <input type="email" asp-for="Login.EmailAddress" class="form-control" />
+            <span asp-validation-for="Login.EmailAddress" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+
+            <label asp-for="Login.Password"></label>
+            <input type="password" asp-for="Login.Password" class="form-control" />
+            <span asp-validation-for="Login.EmailAddress" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+
+            <label asp-for="Login.RememberMe">Remember Me</label>
+            <input type="checkbox" asp-for="Login.RememberMe" class="form-check" />
+
+        </div>
+        <div>
+            <button type="submit" class="btn btn-primary" style="width:100%;">Login</button>
+
+            <a asp-page="Index" class="btn btn-success btn-square form-control">Back to List</a>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        <partial name="_validationScriptsPartial" />
+    }
+}

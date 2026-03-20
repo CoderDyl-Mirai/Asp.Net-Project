@@ -3,24 +3,130 @@
   "WorkspaceRootPath": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject-l00194748\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|solutionrelative:myproject-l00194748\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject-l00194748\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|solutionrelative:myproject-l00194748\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Migrations\\20260126152753_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyProject.DataAccess\\Migrations\\20260126152753_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject-l00194748\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|solutionrelative:myproject-l00194748\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F797096-06B9-4C51-885E-12C4D65ADFD9}|MyProject.Models\\MyProject.Models.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.models\\myproject.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4F797096-06B9-4C51-885E-12C4D65ADFD9}|MyProject.Models\\MyProject.Models.csproj|solutionrelative:myproject.models\\myproject.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject-l00194748\\pages\\customer\\home\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|solutionrelative:myproject-l00194748\\pages\\customer\\home\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject-l00194748\\pages\\customer\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|solutionrelative:myproject-l00194748\\pages\\customer\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MangaDB/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AppDB/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.dataaccess\\repository\\bookdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\repository\\bookdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F797096-06B9-4C51-885E-12C4D65ADFD9}|MyProject.Models\\MyProject.Models.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.models\\models\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F797096-06B9-4C51-885E-12C4D65ADFD9}|MyProject.Models\\MyProject.Models.csproj|solutionrelative:myproject.models\\models\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject-l00194748\\pages\\customer\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|solutionrelative:myproject-l00194748\\pages\\customer\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Migrations\\20260304170928_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyProject.DataAccess\\Migrations\\20260304170928_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D5B2C6-71EE-4757-A1D0-870EDFF2A6B8}|MyProject.Services\\MyProject.Services.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.services\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D5B2C6-71EE-4757-A1D0-870EDFF2A6B8}|MyProject.Services\\MyProject.Services.csproj|solutionrelative:myproject.services\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.dataaccess\\repository\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\repository\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.dataaccess\\repository\\orderitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\repository\\orderitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.dataaccess\\repository\\ishoppingcartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\repository\\ishoppingcartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.dataaccess\\repository\\shoppingcartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\repository\\shoppingcartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.dataaccess\\repository\\iorderitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\repository\\iorderitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.dataaccess\\repository\\iorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\repository\\iorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.dataaccess\\repository\\iapplicationuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\repository\\iapplicationuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.dataaccess\\repository\\applicationuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\repository\\applicationuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.dataaccess\\dataaccess\\mangashopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\dataaccess\\mangashopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.dataaccess\\repository\\ibookdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\repository\\ibookdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D5B2C6-71EE-4757-A1D0-870EDFF2A6B8}|MyProject.Services\\MyProject.Services.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D5B2C6-71EE-4757-A1D0-870EDFF2A6B8}|MyProject.Services\\MyProject.Services.csproj|solutionrelative:myproject.services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F797096-06B9-4C51-885E-12C4D65ADFD9}|MyProject.Models\\MyProject.Models.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.models\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F797096-06B9-4C51-885E-12C4D65ADFD9}|MyProject.Models\\MyProject.Models.csproj|solutionrelative:myproject.models\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F797096-06B9-4C51-885E-12C4D65ADFD9}|MyProject.Models\\MyProject.Models.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.models\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F797096-06B9-4C51-885E-12C4D65ADFD9}|MyProject.Models\\MyProject.Models.csproj|solutionrelative:myproject.models\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F797096-06B9-4C51-885E-12C4D65ADFD9}|MyProject.Models\\MyProject.Models.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.models\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F797096-06B9-4C51-885E-12C4D65ADFD9}|MyProject.Models\\MyProject.Models.csproj|solutionrelative:myproject.models\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F797096-06B9-4C51-885E-12C4D65ADFD9}|MyProject.Models\\MyProject.Models.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.models\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F797096-06B9-4C51-885E-12C4D65ADFD9}|MyProject.Models\\MyProject.Models.csproj|solutionrelative:myproject.models\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.dataaccess\\repository\\booktypesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\repository\\booktypesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F797096-06B9-4C51-885E-12C4D65ADFD9}|MyProject.Models\\MyProject.Models.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.models\\models\\booktypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F797096-06B9-4C51-885E-12C4D65ADFD9}|MyProject.Models\\MyProject.Models.csproj|solutionrelative:myproject.models\\models\\booktypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F797096-06B9-4C51-885E-12C4D65ADFD9}|MyProject.Models\\MyProject.Models.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.models\\models\\themes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F797096-06B9-4C51-885E-12C4D65ADFD9}|MyProject.Models\\MyProject.Models.csproj|solutionrelative:myproject.models\\models\\themes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F797096-06B9-4C51-885E-12C4D65ADFD9}|MyProject.Models\\MyProject.Models.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.models\\myproject.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F797096-06B9-4C51-885E-12C4D65ADFD9}|MyProject.Models\\MyProject.Models.csproj|solutionrelative:myproject.models\\myproject.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.dataaccess\\myproject.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9DF74C1-D914-4CC0-A88F-0CD5C776EEBE}|MyProject.DataAccess\\MyProject.DataAccess.csproj|solutionrelative:myproject.dataaccess\\myproject.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject-l00194748\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|solutionrelative:myproject-l00194748\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject-l00194748\\pages\\admin\\themes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,10 +145,6 @@
       "RelativeMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|solutionrelative:myproject-l00194748\\pages\\admin\\themes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject-l00194748\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|solutionrelative:myproject-l00194748\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject-l00194748\\pages\\admin\\themes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|solutionrelative:myproject-l00194748\\pages\\admin\\themes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -51,24 +153,12 @@
       "RelativeMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|solutionrelative:myproject-l00194748\\pages\\admin\\themes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F797096-06B9-4C51-885E-12C4D65ADFD9}|MyProject.Models\\MyProject.Models.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.models\\models\\booktypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F797096-06B9-4C51-885E-12C4D65ADFD9}|MyProject.Models\\MyProject.Models.csproj|solutionrelative:myproject.models\\models\\booktypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F797096-06B9-4C51-885E-12C4D65ADFD9}|MyProject.Models\\MyProject.Models.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject.models\\models\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F797096-06B9-4C51-885E-12C4D65ADFD9}|MyProject.Models\\MyProject.Models.csproj|solutionrelative:myproject.models\\models\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Migrations\\20260121163411_ver1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyProject-L00194748\\Migrations\\20260121163411_ver1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject-l00194748\\myproject-l00194748.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|solutionrelative:myproject-l00194748\\myproject-l00194748.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|c:\\users\\dylangreene-student\\asp.net-project\\myproject-l00194748\\myproject-l00194748\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{11221EBA-D6CB-43C2-B680-C0D75D954159}|MyProject-L00194748\\MyProject-L00194748.csproj|solutionrelative:myproject-l00194748\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,24 +168,356 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20260126152753_v1.cs",
-              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Migrations\\20260126152753_v1.cs",
-              "RelativeDocumentMoniker": "MyProject.DataAccess\\Migrations\\20260126152753_v1.cs",
-              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Migrations\\20260126152753_v1.cs",
-              "RelativeToolTip": "MyProject.DataAccess\\Migrations\\20260126152753_v1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T15:27:53.287Z",
+              "DocumentIndex": 4,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MangaDB/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-04T17:19:40.777Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AppDB/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-04T17:19:21.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MangaShopDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\DataAccess\\MangaShopDBContext.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\DataAccess\\MangaShopDBContext.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\DataAccess\\MangaShopDBContext.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\DataAccess\\MangaShopDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:13:17.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Customer\\Home\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "MyProject-L00194748\\Pages\\Customer\\Home\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Customer\\Home\\Details.cshtml.cs",
+              "RelativeToolTip": "MyProject-L00194748\\Pages\\Customer\\Home\\Details.cshtml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T17:00:58.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookDetailsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Repository\\BookDetailsRepo.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Repository\\BookDetailsRepo.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Repository\\BookDetailsRepo.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Repository\\BookDetailsRepo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T16:51:53.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderItemRepo.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Repository\\OrderItemRepo.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Repository\\OrderItemRepo.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Repository\\OrderItemRepo.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Repository\\OrderItemRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T16:45:38.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Customer\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "MyProject-L00194748\\Pages\\Customer\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Customer\\Home\\Details.cshtml",
+              "RelativeToolTip": "MyProject-L00194748\\Pages\\Customer\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T17:00:24.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Program.cs",
+              "RelativeDocumentMoniker": "MyProject-L00194748\\Program.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Program.cs",
+              "RelativeToolTip": "MyProject-L00194748\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:06:18.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\appsettings.json",
+              "RelativeDocumentMoniker": "MyProject-L00194748\\appsettings.json",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\appsettings.json",
+              "RelativeToolTip": "MyProject-L00194748\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-21T16:09:41.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationUserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Repository\\ApplicationUserRepo.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Repository\\ApplicationUserRepo.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Repository\\ApplicationUserRepo.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Repository\\ApplicationUserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T16:43:46.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Services\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "MyProject.Services\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Services\\IUnitOfWork.cs",
+              "RelativeToolTip": "MyProject.Services\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T16:58:39.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderRepo.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Repository\\OrderRepo.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Repository\\OrderRepo.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Repository\\OrderRepo.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Repository\\OrderRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T16:45:45.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IShoppingCartRepo.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Repository\\IShoppingCartRepo.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Repository\\IShoppingCartRepo.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Repository\\IShoppingCartRepo.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Repository\\IShoppingCartRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T16:45:31.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShoppingCartRepo.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Repository\\ShoppingCartRepo.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Repository\\ShoppingCartRepo.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Repository\\ShoppingCartRepo.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Repository\\ShoppingCartRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T16:45:52.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookDetails.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\Models\\BookDetails.cs",
+              "RelativeDocumentMoniker": "MyProject.Models\\Models\\BookDetails.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\Models\\BookDetails.cs",
+              "RelativeToolTip": "MyProject.Models\\Models\\BookDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:19:25.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260304170928_v1.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Migrations\\20260304170928_v1.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Migrations\\20260304170928_v1.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Migrations\\20260304170928_v1.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Migrations\\20260304170928_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T17:09:28.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Customer\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyProject-L00194748\\Pages\\Customer\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Customer\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyProject-L00194748\\Pages\\Customer\\Home\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T17:10:20.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOrderItemRepo.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Repository\\IOrderItemRepo.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Repository\\IOrderItemRepo.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Repository\\IOrderItemRepo.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Repository\\IOrderItemRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T16:45:16.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IOrderRepo.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Repository\\IOrderRepo.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Repository\\IOrderRepo.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Repository\\IOrderRepo.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Repository\\IOrderRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T16:45:24.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IApplicationUserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Repository\\IApplicationUserRepo.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Repository\\IApplicationUserRepo.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Repository\\IApplicationUserRepo.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Repository\\IApplicationUserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T16:44:55.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IBookDetailsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Repository\\IBookDetailsRepo.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Repository\\IBookDetailsRepo.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Repository\\IBookDetailsRepo.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Repository\\IBookDetailsRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T17:01:46.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Services\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "MyProject.Services\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Services\\UnitOfWork.cs",
+              "RelativeToolTip": "MyProject.Services\\UnitOfWork.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T16:58:35.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "MyProject.Models\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\Models\\OrderItem.cs",
+              "RelativeToolTip": "MyProject.Models\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T16:52:27.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MyProject.Models\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\Models\\Order.cs",
+              "RelativeToolTip": "MyProject.Models\\Models\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T16:52:23.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "MyProject.Models\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "MyProject.Models\\Models\\ShoppingCart.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T16:52:52.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "MyProject.Models\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "MyProject.Models\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T16:46:47.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BookTypesRepo.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Repository\\BookTypesRepo.cs",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\Repository\\BookTypesRepo.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\Repository\\BookTypesRepo.cs",
+              "RelativeToolTip": "MyProject.DataAccess\\Repository\\BookTypesRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T16:54:40.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "Themes.cs",
               "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\Models\\Themes.cs",
               "RelativeDocumentMoniker": "MyProject.Models\\Models\\Themes.cs",
@@ -108,124 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MangaShopDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\DataAccess\\MangaShopDBContext.cs",
-              "RelativeDocumentMoniker": "MyProject.DataAccess\\DataAccess\\MangaShopDBContext.cs",
-              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\DataAccess\\MangaShopDBContext.cs",
-              "RelativeToolTip": "MyProject.DataAccess\\DataAccess\\MangaShopDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T15:13:17.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "MyProject-L00194748\\Pages\\Admin\\Themes\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Edit.cshtml.cs",
-              "RelativeToolTip": "MyProject-L00194748\\Pages\\Admin\\Themes\\Edit.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T17:01:14.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Edit.cshtml",
-              "RelativeDocumentMoniker": "MyProject-L00194748\\Pages\\Admin\\Themes\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Edit.cshtml",
-              "RelativeToolTip": "MyProject-L00194748\\Pages\\Admin\\Themes\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-21T16:53:19.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Create.cshtml",
-              "RelativeDocumentMoniker": "MyProject-L00194748\\Pages\\Admin\\Themes\\Create.cshtml",
-              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Create.cshtml",
-              "RelativeToolTip": "MyProject-L00194748\\Pages\\Admin\\Themes\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-21T16:53:00.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Index.cshtml",
-              "RelativeDocumentMoniker": "MyProject-L00194748\\Pages\\Admin\\Themes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Index.cshtml",
-              "RelativeToolTip": "MyProject-L00194748\\Pages\\Admin\\Themes\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-21T16:43:30.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "MyProject-L00194748\\Pages\\Admin\\Themes\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Index.cshtml.cs",
-              "RelativeToolTip": "MyProject-L00194748\\Pages\\Admin\\Themes\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T16:44:50.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "MyProject-L00194748\\Pages\\Admin\\Themes\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Create.cshtml.cs",
-              "RelativeToolTip": "MyProject-L00194748\\Pages\\Admin\\Themes\\Create.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T16:53:34.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Program.cs",
-              "RelativeDocumentMoniker": "MyProject-L00194748\\Program.cs",
-              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Program.cs",
-              "RelativeToolTip": "MyProject-L00194748\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T16:06:18.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MyProject-L00194748\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MyProject-L00194748\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-21T16:40:32.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 27,
               "Title": "BookTypes.cs",
               "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\Models\\BookTypes.cs",
               "RelativeDocumentMoniker": "MyProject.Models\\Models\\BookTypes.cs",
@@ -238,33 +543,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MyProject.Models",
+              "DocumentIndex": 29,
+              "Title": "MyProject.Models.csproj",
               "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\MyProject.Models.csproj",
               "RelativeDocumentMoniker": "MyProject.Models\\MyProject.Models.csproj",
               "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\MyProject.Models.csproj",
               "RelativeToolTip": "MyProject.Models\\MyProject.Models.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-01-26T15:19:06.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BookDetails.cs",
-              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\Models\\BookDetails.cs",
-              "RelativeDocumentMoniker": "MyProject.Models\\Models\\BookDetails.cs",
-              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.Models\\Models\\BookDetails.cs",
-              "RelativeToolTip": "MyProject.Models\\Models\\BookDetails.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T15:19:25.034Z",
+              "DocumentIndex": 30,
+              "Title": "MyProject.DataAccess",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\MyProject.DataAccess.csproj",
+              "RelativeDocumentMoniker": "MyProject.DataAccess\\MyProject.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject.DataAccess\\MyProject.DataAccess.csproj",
+              "RelativeToolTip": "MyProject.DataAccess\\MyProject.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-04T16:48:54.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyProject-L00194748\\Pages\\Admin\\Themes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Edit.cshtml",
+              "RelativeToolTip": "MyProject-L00194748\\Pages\\Admin\\Themes\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T16:53:19.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "MyProject-L00194748\\Pages\\Admin\\Themes\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Edit.cshtml.cs",
+              "RelativeToolTip": "MyProject-L00194748\\Pages\\Admin\\Themes\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:01:14.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyProject-L00194748\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyProject-L00194748\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T16:40:32.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyProject-L00194748\\Pages\\Admin\\Themes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Create.cshtml",
+              "RelativeToolTip": "MyProject-L00194748\\Pages\\Admin\\Themes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T16:53:00.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyProject-L00194748\\Pages\\Admin\\Themes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Index.cshtml",
+              "RelativeToolTip": "MyProject-L00194748\\Pages\\Admin\\Themes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T16:43:30.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MyProject-L00194748\\Pages\\Admin\\Themes\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Index.cshtml.cs",
+              "RelativeToolTip": "MyProject-L00194748\\Pages\\Admin\\Themes\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:44:50.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "MyProject-L00194748\\Pages\\Admin\\Themes\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Pages\\Admin\\Themes\\Create.cshtml.cs",
+              "RelativeToolTip": "MyProject-L00194748\\Pages\\Admin\\Themes\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:53:34.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
               "Title": "20260121163411_ver1.cs",
               "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\Migrations\\20260121163411_ver1.cs",
               "RelativeDocumentMoniker": "MyProject-L00194748\\Migrations\\20260121163411_ver1.cs",
@@ -275,19 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\appsettings.json",
-              "RelativeDocumentMoniker": "MyProject-L00194748\\appsettings.json",
-              "ToolTip": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\appsettings.json",
-              "RelativeToolTip": "MyProject-L00194748\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-21T16:09:41.686Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 39,
               "Title": "MyProject-L00194748.csproj",
               "DocumentMoniker": "C:\\Users\\DylanGreene-STUDENT\\Asp.Net-Project\\MyProject-L00194748\\MyProject-L00194748\\MyProject-L00194748.csproj",
               "RelativeDocumentMoniker": "MyProject-L00194748\\MyProject-L00194748.csproj",

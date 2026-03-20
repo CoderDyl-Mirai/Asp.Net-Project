@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace MyProject.Models.Models
@@ -16,6 +17,8 @@ namespace MyProject.Models.Models
         public DateTime ReleaseDate { get; set; } = DateTime.Now;
         public string CoverImage { get; set; }
         public int BookTypeID { get; set; }
+        [ForeignKey("BookTypeID")]
+        [ValidateNever]
         public BookTypes BookType { get; set; }
         public List<Themes> Themes { get; set; } = new List<Themes>();
     }
