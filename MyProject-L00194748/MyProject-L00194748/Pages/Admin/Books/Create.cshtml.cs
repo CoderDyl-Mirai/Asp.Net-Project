@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using MyProject.Services;
+using MyProject_L00194748.ViewModels;
 
 namespace MyProject_L00194748.Pages.Admin.Books
 {
@@ -16,12 +17,14 @@ namespace MyProject_L00194748.Pages.Admin.Books
             _webHostEnvironment = webHostEnvironment;
         }
         public MyProject.Models.Models.BookDetails Book { get; set; }
-        public IEnumerable<SelectListItem> ThemesList { get; set; }
+        [BindProperty]
+        public BookThemesVM BookThemesVM { get; set; } = new();
+        public IEnumerable<SelectListItem> Themes { get; set; }
         public IEnumerable<SelectListItem> BookTypeList { get; set; }
 
         public void OnGet()
         {
-            ThemesList = _unitOfWork.ThemesRepo.GetAll().Select(i => new SelectListItem()
+            Themes = _unitOfWork.ThemesRepo.GetAll().Select(i => new SelectListItem()
             {
                 Text = i.Name,
                 Value = i.Id.ToString()
@@ -34,6 +37,10 @@ namespace MyProject_L00194748.Pages.Admin.Books
         }
         public IActionResult OnPost()
         {
+            var selectedThemes = _unitOfWork.ThemesRepo.GetAll(); 
+            var filteredThemes = selectedThemes
+                .Where(t => BookThemesVM.SelectedThemesIds.Contains(t.Id))
+                .ToList();
             string wwwRootFolder = _webHostEnvironment.WebRootPath;
             var files = HttpContext.Request.Form.Files;
             string new_filename = Path.GetFileName(files[0].FileName);

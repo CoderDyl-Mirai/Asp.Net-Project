@@ -21,6 +21,10 @@ namespace MyProject.DataAccess.DataAccess
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<BookDetails>()
+                .HasMany(b => b.Themes)
+                .WithMany(t => t.Books)
+                .UsingEntity(j => j.ToTable("BookThemesT"));
             modelBuilder.Seed(); // ✅ Call your seed method here
         }
     }

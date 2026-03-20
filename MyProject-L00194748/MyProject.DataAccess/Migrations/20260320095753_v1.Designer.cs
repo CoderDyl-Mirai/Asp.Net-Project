@@ -12,7 +12,7 @@ using MyProject.DataAccess.DataAccess;
 namespace MyProject.DataAccess.Migrations
 {
     [DbContext(typeof(MangaShopDBContext))]
-    [Migration("20260306103249_v1")]
+    [Migration("20260320095753_v1")]
     partial class v1
     {
         /// <inheritdoc />
@@ -488,7 +488,7 @@ namespace MyProject.DataAccess.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int?>("BookId")
+                    b.Property<int>("BookId")
                         .HasColumnType("int");
 
                     b.Property<int>("OrderId")
@@ -712,7 +712,9 @@ namespace MyProject.DataAccess.Migrations
                 {
                     b.HasOne("MyProject.Models.Models.BookDetails", "Book")
                         .WithMany()
-                        .HasForeignKey("BookId");
+                        .HasForeignKey("BookId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.HasOne("MyProject.Models.Models.Order", "Order")
                         .WithMany("OrderDetails")
